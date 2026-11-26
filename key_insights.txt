@@ -1,0 +1,6 @@
+KEY INSIGHTS
+1. Overall pass percentage is 61.08%.
+2. Overall fail percentage is 38.92%.
+3. Average Math Score is 68.18.
+4. Average Science Score is 67.67.
+5. Students studying more than 5 hours have 73.48% pass rate.
